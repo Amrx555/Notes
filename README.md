@@ -11,7 +11,7 @@ You can explore the live site here:
 ---
 
 ## 📸 Preview
-![Notes App Preview](89999.jpg)
+![Notes App Preview](6010087852470897561_121.jpg)
 
 ---
 
@@ -24,6 +24,7 @@ You can explore the live site here:
 ---
 
 ## 🛠️ Tech Stack
+* vue.js
 * HTML5 (Structuring your thoughts)
 * CSS3 (Modern & clean styling)
 * JavaScript (Managing note logic)
