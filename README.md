@@ -6,7 +6,7 @@ Keep your thoughts organized with this clean and functional Notes Application. D
 
 ## 🌐 Live Demo
 You can explore the live site here: 
-👉 [whimsical-kataifi-9a5843.netlify.app](https://whimsical-kataifi-9a5843.netlify.app/)
+👉 [whimsical-kataifi-9a5843.netlify.app](https://notes-vert-mu.vercel.app/)
 
 ---
 
